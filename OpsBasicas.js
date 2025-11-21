@@ -1,5 +1,4 @@
 /**
- * mathUtils.js
  * Funciones aritméticas básicas
  */
 
