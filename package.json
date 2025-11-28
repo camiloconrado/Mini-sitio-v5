@@ -1,0 +1,23 @@
+{
+  "name": "mini-sitio-v5",
+  "version": "1.0.0",
+  "description": "Archivo para mantener en el main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camiloconrado/Mini-sitio-v5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camiloconrado/Mini-sitio-v5/issues"
+  },
+  "homepage": "https://github.com/camiloconrado/Mini-sitio-v5#readme",
+  "devDependencies": {
+    "prettier": "^3.7.1"
+  }
+}
